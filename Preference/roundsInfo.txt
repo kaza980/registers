@@ -1,0 +1,56 @@
+DistributionInfo, round 4:
+Talon: ClubsTen DiamondKing 
+Cards: 
+Trus: ClubsNine SpadesAce HeartsAce ClubsEight DiamondQueen DiamondNine DiamondEight SpadesQueen SpadesEight DiamondJack 
+Balbes: SpadesKing ClubsAce ClubsJack ClubsSeven SpadesNine HeartsTen SpadesSeven HeartsNine HeartsSeven DiamondTen 
+Bivaliy: SpadesJack HeartsEight HeartsKing ClubsQueen HeartsQueen SpadesTen ClubsKing DiamondAce DiamondSeven HeartsJack 
+Eldest hand: Balbes
+
+BiddingInfo, round 10:
+Player Balbes chose Pass
+Player Bivaliy chose SixSpades
+Player Trus chose Pass
+Player Bivaliy chose Pass
+Talon: SpadesKing ClubsQueen 
+
+ContractInfo, round 8:
+Contract: SixSpades
+Player Trus plays like Passed
+Player Balbes plays like Passed
+Player Bivaliy plays like Soloist
+
+GameProccessInfo, round 1:
+Move ¹0: DiamondEight DiamondQueen DiamondAce 
+Taker: Bivaliy
+Move ¹1: HeartsJack HeartsEight HeartsNine 
+Taker: Trus
+Move ¹2: ClubsAce ClubsNine ClubsKing 
+Taker: Trus
+Move ¹3: SpadesNine SpadesJack SpadesTen 
+Taker: Balbes
+Move ¹4: DiamondKing SpadesEight HeartsAce 
+Taker: Balbes
+Move ¹5: ClubsEight SpadesAce ClubsQueen 
+Taker: Balbes
+Move ¹6: ClubsSeven SpadesSeven ClubsTen 
+Taker: Balbes
+Move ¹7: DiamondTen DiamondJack HeartsKing 
+Taker: Balbes
+Move ¹8: DiamondNine SpadesQueen HeartsTen 
+Taker: Balbes
+Move ¹9: ClubsJack SpadesKing HeartsSeven 
+Taker: Balbes
+
+AllResultPointInfo, round 7:
+Points of player Trus: -347.0
+Points of player Balbes: 93.0
+Points of player Bivaliy: 253.0
+
+TotalPointsInfo, round 3:
+Player Trus Pool: 0 Whist left: 0 Whist right: 0 Dump: 1 Tricks: 9
+Player Balbes Pool: 0 Whist left: 0 Whist right: 0 Dump: 13 Tricks: 1
+Player Bivaliy Pool: 0 Whist left: 0 Whist right: 0 Dump: 1 Tricks: 0
+
+ResultPointInfo, round 0, player Balbes:
+Points: 3.0
+

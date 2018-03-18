@@ -1,0 +1,660 @@
+
+
+===========================================
+Новый раунд
+В прикупе лежат карты: DiamondEight HeartsJack 
+Игрок Trus получил карты: HeartsTen ClubsAce ClubsSeven SpadesTen HeartsQueen ClubsNine SpadesKing SpadesAce ClubsEight HeartsSeven 
+Игрок Balbes получил карты: DiamondTen HeartsNine ClubsKing DiamondSeven HeartsKing SpadesSeven DiamondKing DiamondJack SpadesJack DiamondNine 
+Игрок Bivaliy получил карты: ClubsTen HeartsEight ClubsJack DiamondAce DiamondQueen SpadesEight SpadesQueen ClubsQueen HeartsAce SpadesNine 
+
+Результаты торгов: 
+Тип игры: AllPass
+Ход игры: 
+Ход №0
+Выброшены карты: ClubsAce DiamondTen DiamondAce 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: HeartsTen HeartsNine HeartsEight 
+Взятка ушла игроку Trus
+Ход №2
+Выброшены карты: ClubsEight ClubsKing ClubsTen 
+Взятка ушла игроку Balbes
+Ход №3
+Выброшены карты: ClubsNine DiamondKing DiamondQueen 
+Взятка ушла игроку Balbes
+Ход №4
+Выброшены карты: SpadesTen DiamondSeven SpadesEight 
+Взятка ушла игроку Balbes
+Ход №5
+Выброшены карты: SpadesKing SpadesJack SpadesQueen 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: ClubsSeven DiamondNine ClubsJack 
+Взятка ушла игроку Bivaliy
+Ход №7
+Выброшены карты: SpadesAce SpadesSeven SpadesNine 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: HeartsSeven HeartsKing HeartsAce 
+Взятка ушла игроку Bivaliy
+Ход №9
+Выброшены карты: HeartsQueen DiamondJack ClubsQueen 
+Взятка ушла игроку Bivaliy
+
+Получено взяток: 
+Игрок Trus - 3
+Игрок Balbes - 3
+Игрок Bivaliy - 4
+
+Записанные очки: 
+Игрок Trus В горке 0 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 0 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 1 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: DiamondSeven HeartsQueen 
+Игрок Trus получил карты: DiamondEight DiamondKing ClubsAce ClubsJack SpadesNine DiamondTen HeartsJack ClubsEight ClubsSeven DiamondNine 
+Игрок Balbes получил карты: DiamondQueen SpadesJack DiamondJack SpadesQueen SpadesAce SpadesSeven ClubsNine SpadesKing HeartsEight SpadesEight 
+Игрок Bivaliy получил карты: ClubsKing HeartsNine HeartsTen ClubsQueen HeartsSeven ClubsTen HeartsKing HeartsAce DiamondAce SpadesTen 
+
+Результаты торгов: 
+Тип игры: AllPass
+Ход игры: 
+Ход №0
+Выброшены карты: DiamondEight DiamondQueen DiamondAce 
+Взятка ушла игроку Balbes
+Ход №1
+Выброшены карты: HeartsJack HeartsEight HeartsNine 
+Взятка ушла игроку Trus
+Ход №2
+Выброшены карты: ClubsAce ClubsNine ClubsKing 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: SpadesNine SpadesJack SpadesTen 
+Взятка ушла игроку Balbes
+Ход №4
+Выброшены карты: DiamondKing SpadesEight HeartsAce 
+Взятка ушла игроку Balbes
+Ход №5
+Выброшены карты: ClubsEight SpadesAce ClubsQueen 
+Взятка ушла игроку Balbes
+Ход №6
+Выброшены карты: ClubsSeven SpadesSeven ClubsTen 
+Взятка ушла игроку Balbes
+Ход №7
+Выброшены карты: DiamondTen DiamondJack HeartsKing 
+Взятка ушла игроку Balbes
+Ход №8
+Выброшены карты: DiamondNine SpadesQueen HeartsTen 
+Взятка ушла игроку Balbes
+Ход №9
+Выброшены карты: ClubsJack SpadesKing HeartsSeven 
+Взятка ушла игроку Balbes
+
+Получено взяток: 
+Игрок Trus - 2
+Игрок Balbes - 7
+Игрок Bivaliy - 1
+
+Записанные очки: 
+Игрок Trus В горке 1 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 6 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 1 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: SpadesQueen ClubsNine 
+Игрок Trus получил карты: HeartsKing HeartsEight ClubsEight DiamondQueen SpadesEight ClubsJack ClubsSeven DiamondAce SpadesTen DiamondSeven 
+Игрок Balbes получил карты: DiamondEight DiamondJack DiamondNine HeartsNine ClubsAce SpadesKing SpadesSeven ClubsTen ClubsQueen SpadesNine 
+Игрок Bivaliy получил карты: DiamondKing HeartsAce SpadesAce SpadesJack DiamondTen HeartsTen HeartsSeven ClubsKing HeartsQueen HeartsJack 
+
+Результаты торгов: 
+Тип игры: TrickTaking
+Играющий: Balbes
+Ход игры: 
+Сброшены карты: SpadesSeven HeartsNine 
+Контракт: SixClubs
+Игрок Trus выбрал Passed
+Игрок Bivaliy выбрал Passed
+Ход №0
+Выброшены карты: HeartsKing DiamondEight HeartsQueen 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: ClubsJack ClubsAce ClubsKing 
+Взятка ушла игроку Balbes
+Ход №2
+Выброшены карты: DiamondQueen DiamondJack DiamondKing 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: DiamondAce DiamondNine DiamondTen 
+Взятка ушла игроку Trus
+Ход №4
+Выброшены карты: SpadesEight SpadesKing SpadesAce 
+Взятка ушла игроку Trus
+Ход №5
+Выброшены карты: ClubsSeven ClubsTen HeartsAce 
+Взятка ушла игроку Balbes
+Ход №6
+Выброшены карты: ClubsEight ClubsQueen HeartsTen 
+Взятка ушла игроку Balbes
+Ход №7
+Выброшены карты: SpadesTen SpadesNine SpadesJack 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: DiamondSeven SpadesQueen HeartsJack 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: HeartsEight ClubsNine HeartsSeven 
+Взятка ушла игроку Balbes
+
+Получено взяток: 
+Игрок Trus - 6
+Игрок Balbes - 4
+Игрок Bivaliy - 0
+
+Записанные очки: 
+Игрок Trus В горке 1 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 8 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 1 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: ClubsQueen SpadesSeven 
+Игрок Trus получил карты: SpadesQueen HeartsNine HeartsEight SpadesEight HeartsKing DiamondTen DiamondAce ClubsEight SpadesTen DiamondJack 
+Игрок Balbes получил карты: SpadesNine DiamondEight SpadesJack DiamondKing DiamondSeven ClubsKing HeartsAce HeartsQueen SpadesKing HeartsSeven 
+Игрок Bivaliy получил карты: DiamondQueen ClubsAce HeartsJack HeartsTen DiamondNine ClubsSeven ClubsNine ClubsJack ClubsTen SpadesAce 
+
+Результаты торгов: 
+Тип игры: TrickTaking
+Играющий: Balbes
+Ход игры: 
+Сброшены карты: SpadesJack SpadesKing 
+Контракт: SixDiamond
+Игрок Trus выбрал Passed
+Игрок Bivaliy выбрал Passed
+Ход №0
+Выброшены карты: DiamondAce DiamondEight DiamondQueen 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: HeartsKing HeartsAce HeartsJack 
+Взятка ушла игроку Trus
+Ход №2
+Выброшены карты: SpadesTen SpadesNine SpadesAce 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: DiamondTen DiamondKing DiamondNine 
+Взятка ушла игроку Balbes
+Ход №4
+Выброшены карты: ClubsEight ClubsKing ClubsAce 
+Взятка ушла игроку Trus
+Ход №5
+Выброшены карты: HeartsEight HeartsQueen HeartsTen 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: SpadesEight SpadesSeven ClubsSeven 
+Взятка ушла игроку Trus
+Ход №7
+Выброшены карты: SpadesQueen ClubsQueen ClubsNine 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: HeartsNine HeartsSeven ClubsJack 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: DiamondJack DiamondSeven ClubsTen 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 9
+Игрок Balbes - 1
+Игрок Bivaliy - 0
+
+Записанные очки: 
+Игрок Trus В горке 1 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 13 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 1 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: ClubsTen DiamondKing 
+Игрок Trus получил карты: ClubsNine SpadesAce HeartsAce ClubsEight DiamondQueen DiamondNine DiamondEight SpadesQueen SpadesEight DiamondJack 
+Игрок Balbes получил карты: SpadesKing ClubsAce ClubsJack ClubsSeven SpadesNine HeartsTen SpadesSeven HeartsNine HeartsSeven DiamondTen 
+Игрок Bivaliy получил карты: SpadesJack HeartsEight HeartsKing ClubsQueen HeartsQueen SpadesTen ClubsKing DiamondAce DiamondSeven HeartsJack 
+
+Результаты торгов: 
+Тип игры: AllPass
+Ход игры: 
+Ход №0
+Выброшены карты: ClubsNine ClubsAce ClubsQueen 
+Взятка ушла игроку Balbes
+Ход №1
+Выброшены карты: DiamondQueen DiamondTen DiamondAce 
+Взятка ушла игроку Bivaliy
+Ход №2
+Выброшены карты: HeartsAce HeartsTen HeartsJack 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: DiamondJack HeartsSeven DiamondSeven 
+Взятка ушла игроку Trus
+Ход №4
+Выброшены карты: ClubsEight ClubsJack ClubsKing 
+Взятка ушла игроку Bivaliy
+Ход №5
+Выброшены карты: SpadesAce SpadesKing SpadesTen 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: SpadesQueen SpadesNine SpadesJack 
+Взятка ушла игроку Trus
+Ход №7
+Выброшены карты: SpadesEight SpadesSeven HeartsQueen 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: DiamondNine ClubsSeven HeartsKing 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: DiamondEight HeartsNine HeartsEight 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 7
+Игрок Balbes - 1
+Игрок Bivaliy - 2
+
+Записанные очки: 
+Игрок Trus В горке 7 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 13 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 2 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: HeartsAce SpadesJack 
+Игрок Trus получил карты: ClubsQueen DiamondAce SpadesNine SpadesQueen DiamondTen DiamondNine ClubsKing ClubsTen SpadesEight DiamondQueen 
+Игрок Balbes получил карты: ClubsAce HeartsKing DiamondKing ClubsNine SpadesKing HeartsTen DiamondJack SpadesSeven DiamondEight DiamondSeven 
+Игрок Bivaliy получил карты: HeartsJack ClubsEight ClubsJack HeartsSeven HeartsQueen HeartsNine HeartsEight ClubsSeven SpadesTen SpadesAce 
+
+Результаты торгов: 
+Тип игры: TrickTaking
+Играющий: Bivaliy
+Ход игры: 
+Сброшены карты: HeartsAce SpadesTen 
+Контракт: SevenSpades
+Игрок Trus выбрал Passed
+Игрок Balbes выбрал Passed
+Ход №0
+Выброшены карты: DiamondTen HeartsKing HeartsNine 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: SpadesQueen SpadesKing SpadesAce 
+Взятка ушла игроку Bivaliy
+Ход №2
+Выброшены карты: ClubsQueen ClubsAce ClubsJack 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: DiamondNine DiamondKing HeartsJack 
+Взятка ушла игроку Trus
+Ход №4
+Выброшены карты: DiamondQueen DiamondJack ClubsEight 
+Взятка ушла игроку Trus
+Ход №5
+Выброшены карты: DiamondAce DiamondEight HeartsSeven 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: ClubsKing ClubsNine ClubsSeven 
+Взятка ушла игроку Trus
+Ход №7
+Выброшены карты: SpadesNine SpadesSeven SpadesJack 
+Взятка ушла игроку Bivaliy
+Ход №8
+Выброшены карты: ClubsTen HeartsTen HeartsEight 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: SpadesEight DiamondSeven HeartsQueen 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 8
+Игрок Balbes - 0
+Игрок Bivaliy - 2
+
+Записанные очки: 
+Игрок Trus В горке 7 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 13 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 7 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: HeartsTen SpadesQueen 
+Игрок Trus получил карты: HeartsKing DiamondJack SpadesKing SpadesTen SpadesJack SpadesSeven SpadesNine ClubsKing DiamondEight ClubsAce 
+Игрок Balbes получил карты: HeartsNine HeartsAce ClubsSeven HeartsSeven DiamondNine SpadesEight ClubsTen DiamondSeven SpadesAce HeartsJack 
+Игрок Bivaliy получил карты: ClubsQueen HeartsQueen DiamondTen DiamondKing ClubsNine DiamondAce ClubsJack ClubsEight HeartsEight DiamondQueen 
+
+Результаты торгов: 
+Тип игры: Misere
+Играющий: Trus
+Ход игры: 
+Сброшены карты: SpadesNine SpadesSeven 
+Ход №0
+Выброшены карты: SpadesKing SpadesEight ClubsQueen 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: HeartsTen HeartsNine HeartsQueen 
+Взятка ушла игроку Bivaliy
+Ход №2
+Выброшены карты: HeartsKing HeartsAce HeartsEight 
+Взятка ушла игроку Balbes
+Ход №3
+Выброшены карты: DiamondEight HeartsSeven ClubsNine 
+Взятка ушла игроку Balbes
+Ход №4
+Выброшены карты: ClubsKing ClubsSeven ClubsJack 
+Взятка ушла игроку Trus
+Ход №5
+Выброшены карты: SpadesQueen SpadesAce DiamondAce 
+Взятка ушла игроку Balbes
+Ход №6
+Выброшены карты: DiamondJack DiamondSeven DiamondTen 
+Взятка ушла игроку Trus
+Ход №7
+Выброшены карты: SpadesJack DiamondNine ClubsEight 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: ClubsAce ClubsTen DiamondKing 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: SpadesTen HeartsJack DiamondQueen 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 6
+Игрок Balbes - 3
+Игрок Bivaliy - 1
+
+Записанные очки: 
+Игрок Trus В горке 67 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 13 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 7 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: DiamondSeven HeartsTen 
+Игрок Trus получил карты: ClubsKing HeartsJack SpadesQueen SpadesKing SpadesEight ClubsAce SpadesTen DiamondJack HeartsAce HeartsKing 
+Игрок Balbes получил карты: ClubsQueen ClubsJack SpadesSeven HeartsEight HeartsSeven ClubsTen HeartsQueen SpadesNine DiamondQueen SpadesAce 
+Игрок Bivaliy получил карты: HeartsNine ClubsNine ClubsEight DiamondKing DiamondTen DiamondEight DiamondNine ClubsSeven SpadesJack DiamondAce 
+
+Результаты торгов: 
+Тип игры: TrickTaking
+Играющий: Balbes
+Ход игры: 
+Сброшены карты: HeartsSeven HeartsQueen 
+Контракт: TenDiamond
+Игрок Trus выбрал Passed
+Игрок Bivaliy выбрал Passed
+Ход №0
+Выброшены карты: SpadesQueen SpadesAce SpadesJack 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: SpadesTen SpadesSeven HeartsNine 
+Взятка ушла игроку Trus
+Ход №2
+Выброшены карты: DiamondJack DiamondQueen DiamondKing 
+Взятка ушла игроку Bivaliy
+Ход №3
+Выброшены карты: HeartsJack DiamondSeven DiamondEight 
+Взятка ушла игроку Bivaliy
+Ход №4
+Выброшены карты: ClubsKing ClubsQueen ClubsNine 
+Взятка ушла игроку Trus
+Ход №5
+Выброшены карты: SpadesKing SpadesNine ClubsEight 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: HeartsKing HeartsEight DiamondTen 
+Взятка ушла игроку Bivaliy
+Ход №7
+Выброшены карты: HeartsAce ClubsTen DiamondAce 
+Взятка ушла игроку Bivaliy
+Ход №8
+Выброшены карты: SpadesEight HeartsTen DiamondNine 
+Взятка ушла игроку Bivaliy
+Ход №9
+Выброшены карты: ClubsAce ClubsJack ClubsSeven 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 5
+Игрок Balbes - 0
+Игрок Bivaliy - 5
+
+Записанные очки: 
+Игрок Trus В горке 67 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 23 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 7 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: SpadesTen DiamondQueen 
+Игрок Trus получил карты: HeartsAce SpadesJack SpadesNine SpadesEight SpadesAce HeartsJack SpadesSeven DiamondJack ClubsQueen SpadesKing 
+Игрок Balbes получил карты: HeartsKing ClubsSeven ClubsNine DiamondKing HeartsEight ClubsAce HeartsSeven HeartsNine DiamondTen ClubsJack 
+Игрок Bivaliy получил карты: ClubsEight DiamondSeven SpadesQueen ClubsTen ClubsKing DiamondEight DiamondAce HeartsQueen DiamondNine HeartsTen 
+
+Результаты торгов: 
+Тип игры: TrickTaking
+Играющий: Bivaliy
+Ход игры: 
+Сброшены карты: DiamondSeven DiamondAce 
+Контракт: SixSpades
+Игрок Trus выбрал Passed
+Игрок Balbes выбрал Passed
+Ход №0
+Выброшены карты: DiamondJack DiamondKing DiamondEight 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: SpadesJack HeartsNine SpadesQueen 
+Взятка ушла игроку Bivaliy
+Ход №2
+Выброшены карты: ClubsQueen ClubsSeven ClubsTen 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: HeartsAce HeartsKing HeartsQueen 
+Взятка ушла игроку Trus
+Ход №4
+Выброшены карты: SpadesKing ClubsNine SpadesTen 
+Взятка ушла игроку Trus
+Ход №5
+Выброшены карты: SpadesSeven DiamondTen ClubsEight 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: HeartsJack HeartsEight HeartsTen 
+Взятка ушла игроку Trus
+Ход №7
+Выброшены карты: SpadesEight ClubsJack ClubsKing 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: SpadesAce ClubsAce DiamondQueen 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: SpadesNine HeartsSeven DiamondNine 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 9
+Игрок Balbes - 0
+Игрок Bivaliy - 1
+
+Записанные очки: 
+Игрок Trus В горке 67 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 23 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 12 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: ClubsJack ClubsTen 
+Игрок Trus получил карты: DiamondNine ClubsAce HeartsNine DiamondAce HeartsTen SpadesJack DiamondSeven SpadesSeven SpadesKing SpadesQueen 
+Игрок Balbes получил карты: HeartsJack HeartsEight ClubsKing SpadesAce HeartsKing DiamondJack HeartsQueen ClubsSeven SpadesEight ClubsQueen 
+Игрок Bivaliy получил карты: HeartsSeven ClubsEight ClubsNine DiamondTen HeartsAce DiamondKing DiamondQueen SpadesTen DiamondEight SpadesNine 
+
+Результаты торгов: 
+Тип игры: TrickTaking
+Играющий: Balbes
+Ход игры: 
+Сброшены карты: SpadesEight ClubsSeven 
+Контракт: SixSpades
+Игрок Trus выбрал Passed
+Игрок Bivaliy выбрал Passed
+Ход №0
+Выброшены карты: DiamondSeven DiamondJack DiamondTen 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: SpadesQueen SpadesAce SpadesTen 
+Взятка ушла игроку Balbes
+Ход №2
+Выброшены карты: HeartsNine HeartsKing HeartsSeven 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: SpadesJack ClubsQueen SpadesNine 
+Взятка ушла игроку Trus
+Ход №4
+Выброшены карты: SpadesKing ClubsTen HeartsAce 
+Взятка ушла игроку Trus
+Ход №5
+Выброшены карты: DiamondNine HeartsJack DiamondKing 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: SpadesSeven HeartsQueen ClubsNine 
+Взятка ушла игроку Trus
+Ход №7
+Выброшены карты: ClubsAce ClubsKing ClubsEight 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: HeartsTen HeartsEight DiamondQueen 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: DiamondAce ClubsJack DiamondEight 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 9
+Игрок Balbes - 1
+Игрок Bivaliy - 0
+
+Записанные очки: 
+Игрок Trus В горке 67 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 28 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 12 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: SpadesKing ClubsQueen 
+Игрок Trus получил карты: DiamondNine HeartsEight DiamondEight HeartsQueen ClubsTen SpadesQueen DiamondKing SpadesJack DiamondQueen HeartsNine 
+Игрок Balbes получил карты: ClubsNine HeartsJack SpadesTen SpadesSeven DiamondJack ClubsSeven SpadesNine ClubsAce DiamondTen ClubsJack 
+Игрок Bivaliy получил карты: ClubsEight HeartsAce ClubsKing DiamondSeven HeartsTen SpadesEight HeartsSeven HeartsKing SpadesAce DiamondAce 
+
+Результаты торгов: 
+Тип игры: TrickTaking
+Играющий: Bivaliy
+Ход игры: 
+Сброшены карты: HeartsKing SpadesAce 
+Контракт: SixSpades
+Игрок Trus выбрал Passed
+Игрок Balbes выбрал Passed
+Ход №0
+Выброшены карты: DiamondNine DiamondTen DiamondSeven 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: HeartsQueen HeartsJack HeartsAce 
+Взятка ушла игроку Trus
+Ход №2
+Выброшены карты: ClubsTen ClubsNine ClubsEight 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: SpadesQueen SpadesTen SpadesEight 
+Взятка ушла игроку Trus
+Ход №4
+Выброшены карты: HeartsNine SpadesNine HeartsTen 
+Взятка ушла игроку Balbes
+Ход №5
+Выброшены карты: DiamondEight ClubsJack ClubsKing 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: SpadesJack SpadesSeven SpadesKing 
+Взятка ушла игроку Bivaliy
+Ход №7
+Выброшены карты: DiamondKing DiamondJack DiamondAce 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: HeartsEight ClubsAce HeartsSeven 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: DiamondQueen ClubsSeven ClubsQueen 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 8
+Игрок Balbes - 1
+Игрок Bivaliy - 1
+
+Записанные очки: 
+Игрок Trus В горке 67 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 28 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 17 В пуле 0 В вистах 0, 0
+
+===========================================
+Новый раунд
+В прикупе лежат карты: HeartsNine DiamondEight 
+Игрок Trus получил карты: DiamondKing SpadesSeven HeartsSeven HeartsEight DiamondJack ClubsJack ClubsEight DiamondNine ClubsNine HeartsJack 
+Игрок Balbes получил карты: DiamondAce HeartsKing HeartsAce ClubsTen SpadesJack ClubsAce DiamondSeven SpadesKing HeartsTen SpadesAce 
+Игрок Bivaliy получил карты: DiamondTen SpadesEight ClubsSeven ClubsKing HeartsQueen DiamondQueen SpadesTen SpadesNine SpadesQueen ClubsQueen 
+
+Результаты торгов: 
+Тип игры: TrickTaking
+Играющий: Balbes
+Ход игры: 
+Сброшены карты: SpadesJack HeartsTen 
+Контракт: SixDiamond
+Игрок Trus выбрал Passed
+Игрок Bivaliy выбрал Passed
+Ход №0
+Выброшены карты: ClubsJack ClubsTen ClubsQueen 
+Взятка ушла игроку Trus
+Ход №1
+Выброшены карты: DiamondJack DiamondAce DiamondTen 
+Взятка ушла игроку Balbes
+Ход №2
+Выброшены карты: SpadesSeven SpadesAce SpadesEight 
+Взятка ушла игроку Trus
+Ход №3
+Выброшены карты: HeartsSeven HeartsKing HeartsQueen 
+Взятка ушла игроку Trus
+Ход №4
+Выброшены карты: ClubsNine ClubsAce ClubsSeven 
+Взятка ушла игроку Trus
+Ход №5
+Выброшены карты: ClubsEight HeartsAce ClubsKing 
+Взятка ушла игроку Trus
+Ход №6
+Выброшены карты: HeartsEight HeartsNine SpadesQueen 
+Взятка ушла игроку Trus
+Ход №7
+Выброшены карты: DiamondKing DiamondSeven DiamondQueen 
+Взятка ушла игроку Trus
+Ход №8
+Выброшены карты: HeartsJack SpadesKing SpadesTen 
+Взятка ушла игроку Trus
+Ход №9
+Выброшены карты: DiamondNine DiamondEight SpadesNine 
+Взятка ушла игроку Trus
+
+Получено взяток: 
+Игрок Trus - 9
+Игрок Balbes - 1
+Игрок Bivaliy - 0
+
+Записанные очки: 
+Игрок Trus В горке 67 В пуле 0 В вистах 0, 0
+Игрок Balbes В горке 33 В пуле 0 В вистах 0, 0
+Игрок Bivaliy В горке 17 В пуле 0 В вистах 0, 0
+
+Итоговые очки: 
+Игрок Trus получил -280.0
+Игрок Balbes получил 60.0
+Игрок Bivaliy получил 220.0
